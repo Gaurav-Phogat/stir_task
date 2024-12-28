@@ -19,7 +19,7 @@ After clicking the selenium proccess should start and it will login into x.com a
 
 after the x.com tab closes your html page should display the below things 
 
-![Final Page](/final.png)
+![Final Page](/final-result.png)
 
 and when you go back to check on the mongodb database in mongodb compass you should see something like shown below 
 
