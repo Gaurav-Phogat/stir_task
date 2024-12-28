@@ -2,7 +2,7 @@ To complete this task I have used multiple things including proxymesh,selenium a
 
 If anyone wants to use my script feel free to do so.
 
-If you wish to use it effetively you will need to make .env file and add these
+If you wish to use it you will need to make a .env file and add these
 
 TWITTER_USERNAME= ******
 TWITTER_PASSWORD= ****** 
